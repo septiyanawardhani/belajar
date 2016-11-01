@@ -5,4 +5,6 @@ Selamat Datang Kawula Muda Mahasiswa Himpunan Teknik Informatika ISTN
 * Tugas Kampus
 * Tugas Teman
 
+dari did.com
+
 # Semoga Bermanfaat dan Bisa Berjalan Dengan Rutin
